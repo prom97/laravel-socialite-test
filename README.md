@@ -46,7 +46,7 @@ DB_DATABASE=<your_database_name>
 DB_USERNAME=<your_username>
 DB_PASSWORD=<your_password>
 ```
-- Run migrations to set your db tables structure and seed it with pre-built factories
+- Run migrations to set your db tables structure
 ```
 php artisan migrate
 ```
