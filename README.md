@@ -19,7 +19,7 @@
 ## Deployment
 - Clone project
 ```
-git clone https://github.com/PabloDamianRomero/laravel-socialite-test.git
+git clone https://github.com/prom97/laravel-socialite-test.git
 ```
 - Install dependencies from composer.json and package.json (inside the project directory)
 ```
